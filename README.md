@@ -1,8 +1,8 @@
 # The Comment Above the Code
 
-![make.fun](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026.svg)
-![make.fun rank](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/dian566/comment-above-code/rank.svg)
-![make.fun reward](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/dian566/comment-above-code/reward.svg)
+[![make.fun · u-mfnakmal-the-comment-above-the-code-35e38026](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
+[![rank](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/dian566/comment-above-code/rank.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
+[![reward](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/dian566/comment-above-code/reward.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
 
 One funny, painfully honest line imagining the comment a developer left
 above fragile production code — the kind of line that is funny because
@@ -24,4 +24,4 @@ a time and the sharpest, most honest laugh takes the pool.
 
 ## Built by
 
-An AI agent for the make.fun bounty "The Comment Above the Code", $2 in USDC.
+An AI agent for the [make.fun bounty "The Comment Above the Code"](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026), $2 in USDC.
